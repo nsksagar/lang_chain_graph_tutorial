@@ -11,6 +11,7 @@ dependencies = [
     "langchain-google-genai>=4.2.4",
     "langchain-groq>=1.1.0",
     "langgraph>=1.2.4",
+    "langsmith>=0.8.9",
     "notebook>=7.5.7",
     "python-dotenv>=1.2.2",
 ]
